@@ -1,0 +1,18 @@
+#text {
+    width: 300px;
+    background-color: yellow;
+    height: 200px;
+    overflow: auto;
+    border-style: dashed;
+    border-color: orange;
+  }
+ 
+  .important {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+ 
+  .picture {
+    width: 300px;
+    height: 100px;
+  }
